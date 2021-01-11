@@ -1,0 +1,6 @@
+Everytime I had my agent play against a random opponent, my agent always beat the random agent.
+As I worked on this lab, I thought the implementation of alpha-beta pruning algorithm and the expectiminimax algorithm
+are very similar to each other if I wrote them correctly. It was also very intersting to feel that it was hard for me to beat
+the AI. I wish I could use the algorithm with more depth to find better choices. I'm not really sure what would happen if
+my minimax agent and expectimax agent play against each other, but I think it would be pretty similar since they use the
+same evaluation function when they reach the maximum depth. 
